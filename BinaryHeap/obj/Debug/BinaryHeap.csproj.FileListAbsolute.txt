@@ -1,0 +1,6 @@
+C:\Users\Vladimir\source\repos\MP\Sem6\BinaryHeap\BinaryHeap\bin\Debug\BinaryHeap.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\BinaryHeap\BinaryHeap\bin\Debug\BinaryHeap.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\BinaryHeap\BinaryHeap\obj\Debug\BinaryHeap.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\BinaryHeap\BinaryHeap\obj\Debug\BinaryHeap.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\BinaryHeap\BinaryHeap\obj\Debug\BinaryHeap.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\BinaryHeap\BinaryHeap\obj\Debug\BinaryHeap.pdb
